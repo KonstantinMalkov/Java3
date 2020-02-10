@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5936ff4b-ee38-4f72-97c5-675082b22139" name="Default Changelist" comment="" />
+    <list default="true" id="b4e7b03c-1b86-4e70-a2a8-35f2da10aa48" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,23 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="C:\Users\Kasatin\Documents\GitHub\Java3\HomeWork4_Java3\.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1XbKEi4U5L1ZVbEqAfzR1v2PK91" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
+  <component name="ProjectId" id="1XbM3rxqFve1LOy0u15ue3rKcNo" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,11 +31,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5936ff4b-ee38-4f72-97c5-675082b22139" name="Default Changelist" comment="" />
-      <created>1581309243629</created>
+      <changelist id="b4e7b03c-1b86-4e70-a2a8-35f2da10aa48" name="Default Changelist" comment="" />
+      <created>1581310144098</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581309243629</updated>
+      <updated>1581310144098</updated>
     </task>
     <servers />
   </component>
